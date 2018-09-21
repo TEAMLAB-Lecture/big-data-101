@@ -1,4 +1,4 @@
-# big-data-101
+# Data Engineering with cloud services
 
 ## Course decription
 Existing "ERP-SAP" courses ended last year, and this is a course for Big Data Engineering. Do NOT confuse, please
@@ -19,11 +19,20 @@ You need to understand Python and SQL as a preliminary step for learning this le
 
 
 ## Syllabus
-### ch1
-### ch2
-### ch3
-- [AWS EC2 생성 및 접속](https://github.com/higee/elastic/wiki/AWS-EC2-Instance-%EC%83%9D%EC%84%B1-%EB%B0%8F-%EC%A0%91%EC%86%8D)
+### ch0
+- Course introduction: [slide](https://1drv.ms/b/s!ApZ4mg7k2qYhgcAP7sZ0e8ckCsRgoQ)
 
+### ch1 - Business Intelligence Overview
+- Business Inteligence: [slide](https://1drv.ms/b/s!ApZ4mg7k2qYhgcARkgr5FEuvLQP5dg)
+- Components of BI: [slide](https://1drv.ms/b/s!ApZ4mg7k2qYhgcASxbjeLI4B5dG9sw)
+
+### ch2 - AWS - Cloud Service
+- AWS overview: [slide](https://1drv.ms/b/s!ApZ4mg7k2qYhgcAQS-RBKzr_Ejje0g)
+- [AWS EC2 생성 및 접속](https://github.com/higee/elastic/wiki/AWS-EC2-Instance-%EC%83%9D%EC%84%B1-%EB%B0%8F-%EC%A0%91%EC%86%8D)
+- DevOps & S3 : [video](https://vimeo.com/291064949/28834a9f91)
+  - DevOps: [Ndc17 DevOps? DevOps개발자?](https://www.slideshare.net/taehyunkim73700/ndc17-devops-devops-6)
+  - AWS S3: [AWS 시작하기 및 Amazon S3 살펴보기](https://www.slideshare.net/awskorea/aws-getting-started-and-amazon-s3)
+  - AWS boto3 Enviroment Setup : [doc](enviroment_setup/1_aws_cli_boto3.md)
 
 
 ## References
