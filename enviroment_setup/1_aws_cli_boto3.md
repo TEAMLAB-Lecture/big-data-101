@@ -22,8 +22,11 @@ pip install awscli
 #### 4. Key access 설정
 - AWS CLI와 boto3를 자신의 PC에서 설정하기 위한 key access를 다운로드 함
 - IAM 서비스 선택
+
 ![](s3_boto3_setup/1.png)
+
 ![](s3_boto3_setup/2.png)
+
 - 사용자 추가
 ![](s3_boto3_setup/3.png)
 - 사용자 세부 정보 입력
