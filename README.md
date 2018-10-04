@@ -31,9 +31,9 @@ You need to understand Python and SQL as a preliminary step for learning this le
   - DevOps: [Ndc17 DevOps? DevOps개발자?](https://www.slideshare.net/taehyunkim73700/ndc17-devops-devops-6)
   - AWS S3: [AWS 시작하기 및 Amazon S3 살펴보기](https://www.slideshare.net/awskorea/aws-getting-started-and-amazon-s3)
   - AWS boto3 Enviroment Setup : [doc](document/aws_cli/1_aws_cli_boto3.md)
-  - s3 : [video](https://vimeo.com/293270093/2415b21aa5), [doc](document/aws_cli/2_aws_cli_basics.md), [code](./code/1_aws_clis_basics/s3)
-  - vpc : [video](https://vimeo.com/293267772/bd6a419b8a), [doc](document/aws_cli/2_aws_cli_basics.md), [code](./code/1_aws_clis_basics/vpc)
-  - ec2 : [video](https://vimeo.com/293271553/29720abad5), [doc](document/aws_cli/2_aws_cli_basics.md), [code](./code/1_aws_clis_basics/ec2)
+  - s3 : [video](https://vimeo.com/293270093/2415b21aa5), [doc](document/aws_cli/2_aws_cli_basics.md), [code](https://github.com/TEAMLAB-Lecture/big-data-101/tree/master/code/1_aws_cli_basics/s3)
+  - vpc : [video](https://vimeo.com/293267772/bd6a419b8a), [doc](document/aws_cli/2_aws_cli_basics.md), [code](https://github.com/TEAMLAB-Lecture/big-data-101/tree/master/code/1_aws_cli_basics/vpc)
+  - ec2 : [video](https://vimeo.com/293271553/29720abad5), [doc](document/aws_cli/2_aws_cli_basics.md), [code](https://github.com/TEAMLAB-Lecture/big-data-101/tree/master/code/1_aws_cli_basics/ec2)
 - Web application
 
 
