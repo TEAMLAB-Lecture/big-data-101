@@ -54,3 +54,4 @@ docs/_build/
 
 # Custom
 enviroment_setup/credentials.csv
+*.pem
