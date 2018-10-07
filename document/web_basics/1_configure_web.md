@@ -121,7 +121,7 @@ Description=uWSGI instance to serve myproject
 After=network.target
 
 [Service]
-User=sammy
+User=ubuntu
 Group=www-data
 WorkingDirectory=/home/ubuntu/myproject
 Environment="PATH=/home/ubuntu/myproject/venv/bin"
@@ -158,6 +158,8 @@ server {
 -  Flask 재가동
 ```bash
 sudo ln -s /etc/nginx/sites-available/myproject /etc/nginx/sites-enabled
+sudo rm /etc/nginx/sites-available/default
+sudo rm /etc/nginx/sites-enabled/default
 sudo nginx -t
 sudo systemctl restart nginx
 sudo ufw delete allow 5000
