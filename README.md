@@ -34,8 +34,12 @@ You need to understand Python and SQL as a preliminary step for learning this le
   - s3 : [video](https://vimeo.com/293270093/2415b21aa5), [doc](document/aws_cli/2_aws_cli_basics.md), [code](https://github.com/TEAMLAB-Lecture/big-data-101/tree/master/code/1_aws_cli_basics/s3)
   - vpc : [video](https://vimeo.com/293267772/bd6a419b8a), [doc](document/aws_cli/2_aws_cli_basics.md), [code](https://github.com/TEAMLAB-Lecture/big-data-101/tree/master/code/1_aws_cli_basics/vpc)
   - ec2 : [video](https://vimeo.com/293271553/29720abad5), [doc](document/aws_cli/2_aws_cli_basics.md), [code](https://github.com/TEAMLAB-Lecture/big-data-101/tree/master/code/1_aws_cli_basics/ec2)
+  - Lab Assignment - [handling your VPCs](https://github.com/TEAMLAB-Lecture/big-data-101/blob/master/assignment/handling_your_vpcs.md)
 - Web application
-
+  - Web application configurations : [video](https://vimeo.com/293730019/aafcae3df6), [doc](./document/1_configure_web.md)
+  - AMI : [video](https://vimeo.com/293811336/9ee658e265), [doc](), [code](https://github.com/TEAMLAB-Lecture/big-data-101/tree/master/code/2_web_application)
+  - crontab : [video](https://vimeo.com/293814949/9b59298a31), [doc](https://github.com/TEAMLAB-Lecture/big-data-101/blob/master/document/web_basics/3_crontab_basics.md)
+  - Lab Assignment - [AMI with crontab](./assignment/ami_with_crontab.md)
 
 ## References
 https://www.slideshare.net/JaehoonJung/sk-ict-tech-summit-2017-sk-planet?ref=https://readme.skplanet.com/?p=13903
