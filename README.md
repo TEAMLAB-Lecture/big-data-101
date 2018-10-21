@@ -41,5 +41,10 @@ You need to understand Python and SQL as a preliminary step for learning this le
   - crontab : [video](https://vimeo.com/293814949/9b59298a31), [doc](https://github.com/TEAMLAB-Lecture/big-data-101/blob/master/document/web_basics/3_crontab_basics.md)
   - Lab Assignment - [AMI with crontab](./assignment/ami_with_crontab.md)
 
+## Projects
+#### 2018 Members
+- https://github.com/Kangchangwoo1/2018-2nd-semester-gachon-ERPSAP-teamproject-repo
+- https://github.com/HyunaShin/bigdata_engineering_inflearn_project
+- https://github.com/JeongChanwoo/REYNOLDS_system_project
 ## References
 https://www.slideshare.net/JaehoonJung/sk-ict-tech-summit-2017-sk-planet?ref=https://readme.skplanet.com/?p=13903
